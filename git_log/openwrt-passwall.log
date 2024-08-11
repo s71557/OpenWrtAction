@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-dd01852|lwb1978|Fri Aug 9 23:40:40 2024 +0800|luci: fix bugs in trojan import/export and subscribe #3349
+cf672cc|lwb1978|Sat Aug 10 14:41:09 2024 +0800|luci: adapt to Xray-SplitHTTP transport
 </details>

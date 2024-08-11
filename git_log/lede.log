@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2593995b8|left_left|Thu Aug 8 21:36:23 2024 +0800|autocore: fix CPU usage display with procps (#12399)
+9cb68c2e6|Mieczyslaw Nalewaj|Tue Apr 2 08:23:46 2024 +0200|kernel: 6.6: modules: lan743x: add missing dependency
 </details>
