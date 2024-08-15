@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0757478|xiaorouji|Tue Aug 13 21:49:23 2024 +0800|treewide: remove not needed.
+bc64dd0|xiaorouji|Wed Aug 14 22:58:27 2024 +0800|treewide: add PKG_SOURCE
 </details>
